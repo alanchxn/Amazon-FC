@@ -1,11 +1,7 @@
-# Amazon FC Assignment
+# Amazon FC 
 
-We will be mocking up the idea behind the Amazon's Robotic Fulfilment Center. Your program should at least have a CLI component. You could choose to use Arcade or PyQt5 for a GUI.
-
-Topics:
-- Classes and objects
-- Creating an API
-- Unit Testing
+This project is a mock up of the idea behind the Amazon's Robotic Fulfilment Center. 
+https://www.youtube.com/watch?v=YL9XjyXsKKk&ab_channel=TheMyrtleBeachSunNews-Archive
 
 ## Item Flow
 ### In
